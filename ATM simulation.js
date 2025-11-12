@@ -49,4 +49,4 @@ while(true){
                 console.log('Invalid choice');
   
 }
-}
+};
