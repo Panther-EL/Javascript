@@ -7,7 +7,7 @@ if(BMI<18.5){
   return 'Normal';
 }else{
   return 'Overweight';
-}
+};
 };
 
 console.log(BMI())
